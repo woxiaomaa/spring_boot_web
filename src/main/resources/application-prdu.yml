@@ -1,0 +1,6 @@
+server:
+  port: 8081
+
+person:
+  name: xiaozhang
+  age: 21
